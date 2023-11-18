@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contest-1-react/static/css/main.ae95c748.css",
+    "main.js": "/contest-1-react/static/js/main.8f61d3b0.js",
+    "index.html": "/contest-1-react/index.html",
+    "main.ae95c748.css.map": "/contest-1-react/static/css/main.ae95c748.css.map",
+    "main.8f61d3b0.js.map": "/contest-1-react/static/js/main.8f61d3b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae95c748.css",
+    "static/js/main.8f61d3b0.js"
+  ]
+}
